@@ -5,9 +5,9 @@ In mijn plan van aanpak gaf ik aan van plan te zijn een rekenmachine te maken in
 
 ## Zoals:
   
-  -Powershell 
-  -Batch
-  -Visual Basic Script
+    -Powershell 
+    -Batch
+    -Visual Basic Script
 
 ---
 
@@ -19,4 +19,5 @@ In mijn plan van aanpak gaf ik aan van plan te zijn een rekenmachine te maken in
     -aftrekken
     -vermenigvuldigen
     -delen
+    
 ---
